@@ -59,7 +59,7 @@ public class Pelanggan extends DataPelanggan{
         System.out.println("Total Bayar \t: " + this.totalBayar);
         System.out.println("-------------------------------------");
         System.out.println("     ");
-        System.out.println(" Kasir \t\t: Niken Hamuti A\n");
+        System.out.println(" Kasir \t\t: Niken Hamuti \n");
     //string
         System.out.println("toLowercase\t: " + nama.toLowerCase() );
         System.out.println("length\t\t: " + nama.length() );
